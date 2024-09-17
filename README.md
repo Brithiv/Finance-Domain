@@ -62,3 +62,5 @@
 <p>This finance dashboard provides a comprehensive view of your financial health, enabling effective management and optimization of income, expenses, and savings. The clear visualizations make it easy to track financial performance trends and take control of your finances.</p>
 
 <hr>
+
+![Finance](https://github.com/user-attachments/assets/7048dc7b-52a8-49cc-8ea5-46ea76a4ce56)
